@@ -11,9 +11,8 @@
   <ul>
   <li>MTA: Introduction to Programming using Java</li>
   <li>MTA: Database Fundamentals</li>
-  <li>devloper app mobile React Native<li/>
+  <li>devloper app mobile React Native</li>
   </ul>
-
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Nadir%20Atif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atif-nadir-software-engineer)](https://www.linkedin.com/in/atif-nadir-software-engineer)
 
 ### Languages and Tools

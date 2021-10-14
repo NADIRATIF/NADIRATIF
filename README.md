@@ -2,7 +2,7 @@
 
 # Hey there, I'm @NADIRATIF Software Engineer.
 ## i'm a computer Science and Engineering Student.
-- :computer: I'm currently working as a freelancer on web and mobile development technologies like Javascript, React, React Native etc.
+- :computer: I'm currently working as a freelancer on web and mobile development technologies like Javascript, React, React Native, Flutter etc.
 - :school: I’m currently learning everything about software engineering technologies.
 - :seedling: I'm interested in Artificial Intelligence and machine learning
 - :muscle: future goals: learn AI, Machine Learning

@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 # Hey there, I'm @NADIRATIF Software Engineer.
-## i'm a computer Science and Engineering Student.
+## i'm a junior software mobile and web Engineering devloper position [current].
 - :computer: I'm currently working as a freelancer on web and mobile development technologies like Javascript, React, React Native, Flutter etc.
 - :school: I’m currently learning everything about software engineering technologies.
 - :seedling: I'm interested in Artificial Intelligence and machine learning
